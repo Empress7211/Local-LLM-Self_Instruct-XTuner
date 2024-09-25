@@ -74,3 +74,19 @@
 - 确保已正确安装并配置 XTuner。
 - 检查 CUDA 和 GPU 驱动是否正确安装和配置。
 
+## 感谢
+@misc{2023xtuner,
+    title={XTuner: A Toolkit for Efficiently Fine-tuning LLM},
+    author={XTuner Contributors},
+    howpublished = {\url{https://github.com/InternLM/xtuner}},
+    year={2023}
+}
+
+https://github.com/xusenlinzy/api-for-open-llm
+
+@misc{selfinstruct,
+  title={Self-Instruct: Aligning Language Model with Self Generated Instructions},
+  author={Wang, Yizhong and Kordi, Yeganeh and Mishra, Swaroop and Liu, Alisa and Smith, Noah A. and Khashabi, Daniel and Hajishirzi, Hannaneh},
+  journal={arXiv preprint arXiv:2212.10560},
+  year={2022}
+}
